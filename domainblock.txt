@@ -40,3 +40,4 @@ dev.yuanta.dev
 test.yuanta.dev
 us.securitycloud-symantec.icu
 vt.livehost.live
+amos-malware.ru
