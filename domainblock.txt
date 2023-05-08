@@ -41,3 +41,5 @@ test.yuanta.dev
 us.securitycloud-symantec.icu
 vt.livehost.live
 amos-malware.ru
+getjusto.com
+primolea.com
