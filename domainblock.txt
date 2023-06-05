@@ -1,3 +1,4 @@
 *.zip
 *.nyfeshasyra.com
 burakyaman.co.uk
+ap-singapore.myqcloud.com
