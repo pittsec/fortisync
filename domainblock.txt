@@ -41,3 +41,4 @@ devnetapp.com
 situotech.com
 closeyoueyes.com
 bigallpack.com
+*.ru
