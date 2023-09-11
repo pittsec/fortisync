@@ -1,1 +1,5 @@
 51.91.129.67/32
+#Cortex-Hive Download Server
+5.196.134.249/32
+#Apply4.com
+95.131.251.28/32
