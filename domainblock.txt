@@ -107,3 +107,5 @@ europetourtravels.link
 oauth2.live
 loginlive.formsmicrosoftoffice.com.oauth2.live
 login.microsoftonilne.com.oauth2.online
+nflalllday.com
+meettdapper.com
