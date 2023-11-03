@@ -109,3 +109,7 @@ loginlive.formsmicrosoftoffice.com.oauth2.live
 login.microsoftonilne.com.oauth2.online
 nflalllday.com
 meettdapper.com
+dayforce.sa.com
+riddick.digital
+dayfrchcm.fun
+dayfrc-hmc.online
