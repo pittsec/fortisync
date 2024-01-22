@@ -83,5 +83,7 @@
 #tchk06 Stop
 45.66.35.21
 2.58.56.220
-# C&C 1 IP
+# C&C IP
 185.81.157.104/32
+# Specialcraftbox Malware
+80.66.79.252
