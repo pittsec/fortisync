@@ -87,5 +87,3 @@
 185.81.157.104/32
 # Specialcraftbox Malware
 80.66.79.252
-#phishing
-151.101.66.133/32
