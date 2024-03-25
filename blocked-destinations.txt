@@ -97,3 +97,7 @@
 185.202.0.111/32
 #DarkGate
 5.181.159.0/24
+#Cobeacon C&C server
+83.97.20.141
+#SparkRAT ITW IP and C&C server
+38.54.94.13
