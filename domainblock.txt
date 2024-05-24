@@ -116,3 +116,6 @@ dayfrc-hmc.online
 gooseoperaproxy.top
 specialcraftbox.com
 destinationssitters.com
+avast-securedownload.com
+bitdefender-app.com
+malwarebytes.pro
