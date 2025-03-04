@@ -380,3 +380,6 @@ api.emazemedia.com
 updata.dsqurey.com
 caba.superdasqe.me
 home.boopainc.com
+#compromised-site
+hep2go.com
+www.hep2go.com
