@@ -393,3 +393,4 @@ hitetqygzknqw6c399.bxss.me
 # CoffeeLoader Malware
 mvnrepo.net
 freeimagecdn.com
+f8e6e60f.231a508c1efddd97e37dc95b.workers.dev
