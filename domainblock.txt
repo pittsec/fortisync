@@ -571,3 +571,4 @@ modgovindia.space
 findcloudflare.com
 cloudflare.redirectpartners.com
 putty.com
+*.onion
