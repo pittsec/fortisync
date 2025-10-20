@@ -572,3 +572,6 @@ findcloudflare.com
 cloudflare.redirectpartners.com
 putty.com
 *.onion
+lastpassdesktop.com
+lastpassdesktop.app
+lastpassgazette.blog
