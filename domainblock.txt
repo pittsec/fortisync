@@ -688,3 +688,4 @@ ozonelf.su
 exposqw.su
 squatje.su
 vicareu.su
+ms-teams.team
