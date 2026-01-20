@@ -711,3 +711,7 @@ pool.breakfastidentity.ru
 pandaspandas.pm
 my.magicpandas.fun
 pandaspandas.pm
+api.databycloud.com
+api.software-access.com
+user.software-access.com
+admin.software-access.com
