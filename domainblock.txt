@@ -715,3 +715,5 @@ api.databycloud.com
 api.software-access.com
 user.software-access.com
 admin.software-access.com
+dedicated.professional-reviews.workers.dev
+vuod.de
