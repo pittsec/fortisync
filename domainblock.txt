@@ -1,4 +1,4 @@
-*.zip
+ *.zip
 *.nyfeshasyra.com
 burakyaman.co.uk
 *.ap-singapore.myqcloud.com
@@ -754,3 +754,7 @@ playstations.click
 logon.sharefileselfservices.cloud
 sso-services.com
 newcrowdcapital.com
+Xmri.network
+Wexmri.cc
+ndibstersoft.com
+d15mawx0xveem1.cloudfront.net
